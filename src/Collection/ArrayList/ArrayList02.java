@@ -8,9 +8,9 @@ public class ArrayList02 {
 		ArrayList<String> a = new ArrayList<>();
 
 		a.add("Wasim");
-		
-		  a.add("Shaikh"); a.add("Asharf"); a.add("Husain");
-		 
+		a.add("Shaikh");
+		a.add("Asharf");
+		a.add("Husain");
 
 		// traversing list through iterato
 		Iterator itr = a.iterator();

@@ -14,6 +14,5 @@ public class GetandSetArrayList {
 		for (String str : a) {
 			System.out.println(str);
 		}
-
 	}
 }
